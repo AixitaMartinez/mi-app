@@ -36,6 +36,7 @@ input, select {
   margin-top: 5px;
   border-radius: 5px;
   border: 1px solid #ccc;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 button {
